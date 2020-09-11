@@ -8,7 +8,7 @@ int main() {
 	}
 	else if (num % 2 == 1)
 	{
-		printf("even");
+		printf("odd");
 	}
 	else
 	{
